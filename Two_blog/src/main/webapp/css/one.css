@@ -1,0 +1,19 @@
+	
+    .fakeimg {
+        height: 200px;
+         background:#;
+    }
+  
+ .navbar-default {
+    background-color: blanchedalmond;
+    border-color: #555555;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #737373;
+}
+
+/**选择的是所有的class="thumbnail"元素下面所有的img标签在鼠标滑过的时候产生的样式**/
+.thumbnail img:hover{
+	border: 1px solid #BCE8F1;
+}
