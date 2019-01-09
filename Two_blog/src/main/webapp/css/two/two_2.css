@@ -1,0 +1,13 @@
+.navbar-default {
+    background-color: deepskyblue;
+    border-color: #204D74;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+/**选择的是所有的class="thumbnail"元素下面所有的img标签在鼠标滑过的时候产生的样式**/
+.thumbnail img:hover{
+	border: 1px solid red;
+}
