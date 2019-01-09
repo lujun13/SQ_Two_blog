@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.myactive{
+    border-bottom: 3px solid red;
+}
+#yy_nav{
+    background-color: white;
+    border: none;
+}
+#example-navbar-collapse > ul:nth-child(1) > li:hover{
+    border-bottom: 3px solid red;!important;
+}
+.u1 img:hover{
+	border: 1px solid red;
+}
+.l2 img:hover{
+	border: 1px solid red;
+}
+.l3 img:hover{
+	border: 1px solid red;
+}
